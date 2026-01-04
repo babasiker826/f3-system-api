@@ -32,10 +32,11 @@ APIS = [
     ("Anne", "http://45.81.113.22:4040/anne?tc="),
     ("Baba", "http://45.81.113.22:4040/baba?tc="),
     ("TC Pro", "http://45.81.113.22:4000/f3system/api/tcpro?tc=<TC_NO>&key=F3-TEST-KEY-123"),
-    ("Adres", "http://45.81.113.22:4000/f3system/api/adres?tc=<TC_NO>&key=F3-TEST-KEY-123"),
+    ("Kapali", "http://45.81.113.22:4000/f3system/api/adres?tc=<TC_NO>&key=F3-TEST-KEY-123"),
     ("Hane", "http://45.81.113.22:4000/f3system/api/hane?tc=<TC_NO>&key=F3-TEST-KEY-123"),
     ("Sülale", "http://45.81.113.22:4000/f3system/api/sulale?tc=<TC_NO>&key=F3-TEST-KEY-123"),
     ("Aile (Key)", "http://45.81.113.22:4000/f3system/api/aile?tc=<TC_NO>&key=F3-TEST-KEY-123"),
+    ("Isyeri", "http://45.81.113.22:4000/f3system/api/isyeri?tc=11111111110&key=F3-TEST-KEY-123")
 ]
 
 @app.route("/")
